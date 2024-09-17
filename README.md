@@ -1,0 +1,2 @@
+# Just-analyst
+Data analyst
